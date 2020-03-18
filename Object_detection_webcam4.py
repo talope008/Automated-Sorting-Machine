@@ -1,7 +1,7 @@
 ######## Webcam Object Detection Using Tensorflow-trained Classifier #########
 #
-# Author: Evan Juras
-# Date: 1/20/18
+# Author: Christopher Nguyen, Tristan Lopez
+# Date: 03/18/2020
 # Description: 
 # This program uses a TensorFlow-trained classifier to perform object detection.
 # It loads the classifier and uses it to perform object detection on a webcam feed.
@@ -14,7 +14,8 @@
 ## and some is copied from Dat Tran's example at
 ## https://github.com/datitran/object_detector_app/blob/master/object_detection_app.py
 
-## but I changed it to make it more understandable to me.
+## and some is copied from Evan Juras at
+## https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#2-set-up-tensorflow-directory-and-anaconda-virtual-environment
 
 
 # Import packages
